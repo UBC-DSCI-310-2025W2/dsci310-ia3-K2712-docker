@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# VS Code
+.vscode/
+
